@@ -3,7 +3,7 @@ const { sync: loadPostcssConfig } = require('postcss-load-config')
 module.exports = opts => {
 	// prepare configuration
 	const pcssConfigCtx = { cwd: __dirname, env: process.env.NODE_ENV }
-	const pcssConfigPath = __dirname
+	const pcssConfigPath = process.cwd()
 	const pcssConfig = safelyLoadPostcssConfig(pcssConfigCtx, pcssConfigPath, opts)
 
 	// rescript configuration used when no PostCSS configuration is present
