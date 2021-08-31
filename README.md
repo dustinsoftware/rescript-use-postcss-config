@@ -48,4 +48,4 @@ module.exports = {
 [git-img]: https://img.shields.io/github/issues/jsxtools/rescript-use-postcss-config.svg
 [git-url]: https://github.com/jsxtools/rescript-use-postcss-config/issues
 [npm-img]: https://img.shields.io/npm/v/rescript-use-postcss-config.svg
-[npm-url]: https://www.npmjs.com/package/rescript-use-postcss-config
+[npm-url]: https://www.npmjs.com/package/rescript-use-postcss-config-workspaces-fix
