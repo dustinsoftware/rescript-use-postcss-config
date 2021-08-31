@@ -1,12 +1,12 @@
 {
-  "name": "rescript-use-postcss-config",
+  "name": "rescript-use-postcss-config-workspaces-fix",
   "version": "1.0.0",
   "description": "Use your own PostCSS configuration in Create React App",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
-  "repository": "jsxtools/rescript-use-postcss-config",
-  "homepage": "https://github.com/jsxtools/rescript-use-postcss-config#readme",
-  "bugs": "https://github.com/jsxtools/rescript-use-postcss-config/issues",
+  "repository": "dustinsoftware/rescript-use-postcss-config",
+  "homepage": "https://github.com/dustinsoftware/rescript-use-postcss-config#readme",
+  "bugs": "https://github.com/dustinsoftware/rescript-use-postcss-config/issues",
   "main": "index.js",
   "files": [
     "index.js"
