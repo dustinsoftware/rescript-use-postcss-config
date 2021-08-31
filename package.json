@@ -1,6 +1,6 @@
 {
   "name": "rescript-use-postcss-config-workspaces-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use your own PostCSS configuration in Create React App",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
