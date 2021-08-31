@@ -12,7 +12,7 @@
 Add **Rescript PostCSS** to your project:
 
 ```sh
-npm install rescript-use-postcss-config --save-dev
+npm install rescript-use-postcss-config-workspaces-fix --save-dev
 ```
 
 Next, add **Rescript PostCSS** to your **Rescript** configuration:
@@ -20,7 +20,7 @@ Next, add **Rescript PostCSS** to your **Rescript** configuration:
 ```js
 // .rescriptsrc.js
 module.exports = [
-  ['use-postcss-config']
+  ['use-postcss-config-workspaces-fix']
 ]
 ```
 
